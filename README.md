@@ -6,7 +6,7 @@
 
 ## 기능 소개
 ### 회로 구성
-![circuit]()  
+![circuit](https://github.com/uichan8/arduino_project2022_1/blob/main/pictures/circuit.png)  
   
 ### 초기 설정
 1. 먼저 <I2C_searching.ino> 파일을 실행하여 시리얼 모니터로 lcd 장치의 주소를 가져옵니다.
